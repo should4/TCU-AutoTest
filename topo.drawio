@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15" version="26.2.14">
   <diagram name="第 1 页" id="bb4P5hw4HZRwwf8iZv8R">
-    <mxGraphModel dx="2183" dy="1840" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2183" dy="1440" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -156,21 +156,6 @@
         </mxCell>
         <mxCell id="e23MiZItnUsEhFVkmW49-51" value="Process" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="97.63" y="63.25" width="53.25" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="e23MiZItnUsEhFVkmW49-52" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-217" y="-535" width="106" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="e23MiZItnUsEhFVkmW49-53" value="VM" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-189.5" y="-527" width="51" height="13" as="geometry" />
-        </mxCell>
-        <mxCell id="e23MiZItnUsEhFVkmW49-54" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="-203.12" y="-506" width="78.25" height="81" as="geometry" />
-        </mxCell>
-        <mxCell id="e23MiZItnUsEhFVkmW49-55" value="QP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-181.37" y="-474.5" width="34.75" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="e23MiZItnUsEhFVkmW49-56" value="Process" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-187.87" y="-498" width="53.25" height="16" as="geometry" />
         </mxCell>
         <mxCell id="e23MiZItnUsEhFVkmW49-57" value="10.1.1.4" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="65.50999999999999" y="-3.75" width="112" height="30" as="geometry" />
