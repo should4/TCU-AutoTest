@@ -138,7 +138,7 @@
           <mxGeometry x="339" y="463" width="105.82" height="25" as="geometry" />
         </mxCell>
         <mxCell id="91NZkWHNpWLfjQQ4ggwQ-51" value="command + sshConnection" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="317.5" y="716" width="160" height="30" as="geometry" />
+          <mxGeometry x="-29" y="485" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="91NZkWHNpWLfjQQ4ggwQ-52" value="senderTask" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="240.50000000000003" y="530" width="79" height="22" as="geometry" />
