@@ -169,7 +169,7 @@
           <mxGeometry x="499" y="508" width="169" height="127" as="geometry" />
         </mxCell>
         <mxCell id="91NZkWHNpWLfjQQ4ggwQ-61" value="xxxx.log" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="754" y="502.5" width="134" height="134" as="geometry" />
+          <mxGeometry x="764" y="505" width="134" height="134" as="geometry" />
         </mxCell>
         <mxCell id="91NZkWHNpWLfjQQ4ggwQ-62" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="91NZkWHNpWLfjQQ4ggwQ-57" target="91NZkWHNpWLfjQQ4ggwQ-61">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
